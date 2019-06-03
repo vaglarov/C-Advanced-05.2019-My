@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001. Sort Even Numbers", "1. Sort Even Numbers\001. Sort Even Numbers.csproj", "{AFF39ABF-93B4-4BE4-98A7-A2B4140B8E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002. Sum Numbers", "002. Sum Numbers\002. Sum Numbers.csproj", "{5A8FFD67-84F4-4F0D-8F65-CEDE6A100F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103. Count Uppercase Words", "103. Count Uppercase Words\103. Count Uppercase Words.csproj", "{F9B97EBA-30F8-42BD-9F61-7E8B2690F860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF39ABF-93B4-4BE4-98A7-A2B4140B8E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF39ABF-93B4-4BE4-98A7-A2B4140B8E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF39ABF-93B4-4BE4-98A7-A2B4140B8E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF39ABF-93B4-4BE4-98A7-A2B4140B8E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8FFD67-84F4-4F0D-8F65-CEDE6A100F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8FFD67-84F4-4F0D-8F65-CEDE6A100F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8FFD67-84F4-4F0D-8F65-CEDE6A100F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8FFD67-84F4-4F0D-8F65-CEDE6A100F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B97EBA-30F8-42BD-9F61-7E8B2690F860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B97EBA-30F8-42BD-9F61-7E8B2690F860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B97EBA-30F8-42BD-9F61-7E8B2690F860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B97EBA-30F8-42BD-9F61-7E8B2690F860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2472B1EC-9AF1-471A-99AA-25B67ED5F74E}
+	EndGlobalSection
+EndGlobal
